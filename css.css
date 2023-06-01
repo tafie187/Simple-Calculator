@@ -21,11 +21,7 @@
     border-radius: 50px;
 
 }
-.header {
-    color: #f40000;
-    text-align: center;
-    align-items: center;
-}
+
 .calculator button {
 
     border: 40%;
@@ -50,7 +46,7 @@ input {
     height: 70px;
     width: 370px;
     border: none;
-    color: #fff;
+    color: #000000;
 }
 
  .button{
